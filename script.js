@@ -73,7 +73,17 @@
 // console.log([i])
 // }
 
-for (let i = 500; i > 49; i--){
-  console.log([i])
-}
+// for (let i = 500; i > 49; i--){
+//   console.log([i])
+// }
 
+// Section 8.
+
+//  for (let i = 0; i < 100; i++){
+//     if (i % 2 != 0) {
+//         console.log(`${i} is an odd number`)
+//       }
+
+// }
+//------I got this solution from stackoverflow
+//------I don't really understand how the remainder operator makes this work
