@@ -142,4 +142,3 @@ for(i=0; i<=boardSize; i++){
         console.log(" "+pattern.repeat(width))
     }
 }
-console.log(width)
