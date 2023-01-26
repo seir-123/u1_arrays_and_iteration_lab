@@ -63,7 +63,6 @@ const e = 16
 ### Strings - Switcharoo
 1. Create a variable called `firstVariable`.
 1. assign it the value of a string: `"Hello World"`
-1. On the next line, change the value of this variable to a number.
 1. store the value of `firstVariable` into a new variable called `secondVariable`
 1. On the next line, change the value of `secondVariable` to a string.
 1. What is the value of `firstVariable`?
@@ -73,30 +72,6 @@ const e = 16
   - Write an expression that takes the string "Hello, my name is " and the variable `yourName` so that it prints a new string with them concatenated
 
 >ex: `Hello, my name is Jean Valjean`
-
-## Section 4. Booleans
-- Using the provided variable definitions, replace the blanks with a mathematical or boolean operator **that evaluates the expression to true**.
-
-[MDN Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
-
-```
-  const a = 6;
-  const b = 100;
-  const c = -5;
-  const d = 3000;
-  const e = 'Jelly Bean';
-```
-
-1.  a _ b;
-1.  c _ d;
-1.  'Peanut' _ 'Peanut';
-1.  a _ b _ c;
-1.  a _ a _ d;
-1.  e _ 'Jelly Bean';
-1.  48 _ '48';
-1. 'e' _ 'Eh'
-
-...
 
 
 ## Section 5. The Farm
