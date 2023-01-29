@@ -30,7 +30,7 @@ Rate your understanding of the following questions on a scale of 1 - 5. If your 
   - Which line(s) is/are valid?
 
     ```js
-    let a = 0;
+    let a = 0;V
     const b = 1;
     9 = a;
     b = b + 5;
