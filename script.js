@@ -96,4 +96,5 @@ for (let i = y ; i < 100 ; i += 2 ) {
 // https://stackoverflow.com/questions/66837818/how-to-print-odd-and-even-numbers-in-javascript#:~:text=const%20isOdd%20%3D%20(n)%20%3D,Even%20numbers%20are%20%24%7B%20num.
 
 
-// 2) 
+// 2)
+// I truly have no idea
