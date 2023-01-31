@@ -12,8 +12,9 @@
 // Math.ceil(b)
 // console.log(Math.ceil(b))
 // // 2
-// console.log(b - a)
-// // -41.68
+// Math.abs(b - a)
+// console.log(Math.abs(b, a))
+// // 1.1
 // Math.max(a, b, c, d, e)
 // console.log(Math.max(a, b, c, d, e))
 // //42.78
