@@ -33,41 +33,74 @@
 
 // SECTION 3
 // Strings - Switcharoo
+
 // var firstVariable = ("Hello World")
 // // console.log(firstVariable);
 // // Hello World
+
 // myVar ();
 // function myVar() {
 //     firstVariable = 30;
 // }
 // console.log(firstVariable)
 // // 30
+
 // let secondVariable = firstVariable
 // console.log(secondVariable)
 // // 30
+
 // myFunction ();
 // function myFunction() {
 //     secondVariable = "Hello World"
 //     console.log(secondVariable)
 // }
 // // Hello World
+
 // console.log(firstVariable)
 // 30
 
+
 // Strings - Combine it
+
 // var yourName = "Kelly Guzman"
 // console.log(yourName)
 
 // console.log(`Hello, my name is ${yourName}`)
 
+
 // Section 6. Driver's Ed
 
-let age = 15
-if (age <= 16) {
-    console.log("Here are the keys!")
-} else {
-    console.log("Sorry, you're too young.")
-}
+// let age = 15
+// if (age <= 16) {
+//     console.log("Here are the keys!")
+// } else {
+//     console.log("Sorry, you're too young.")
+// }
+
+// // Section 7. 
+// // Just Loop It
+
+// 1.
+// let nums = '';
+// for (let i = 0; i <= 10; i++) {
+//     nums = nums + i;
+// }
+// console.log(nums)
+
+// 2.
+// for (let i = 0; i <= 500 - 50; i++) {
+//     console.log(i)
+//    }
+
+// Section 8. Let's get odd
+
+// for (var i = 1; i<=100; i++) {
+//     if (i % 2 === 1) {
+//         console.log(i + "is an odd number")
+//     }
+// }
+
+
 
 
 
