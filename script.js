@@ -97,4 +97,4 @@ for (let i = y ; i < 100 ; i += 2 ) {
 
 
 // 2)
-// I truly have no idea
+// i understand that a forEach loop would be helpful here but I just can't wrap my brain around how I would structure it
